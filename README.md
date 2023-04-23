@@ -1,5 +1,5 @@
 # Dimensionality_Reduction using PCA
-Using Principal Component Analysis technique to reduce the dimension of the data suitable for machine learning algorithm.<br/>
+Using Principal Component Analysis technique to reduce the dimension of the data while retaining as much information as possible, suitable for machine learning algorithm.<br/>
 <b>For more:</b>
 <br/> 
 <a href="https://en.wikipedia.org/wiki/Principal_component_analysis"> Wikipedia PCA </a>
