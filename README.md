@@ -2,7 +2,7 @@
 Using Principal Component Analysis technique to reduce the dimension of the data suitable for machine learning algorithm.<br/>
 <b>For more:</b>
 <br/> 
-<a href="[https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.htm](https://en.wikipedia.org/wiki/Principal_component_analysis)l">Wikipedia PCA</a>
+<a href="https://en.wikipedia.org/wiki/Principal_component_analysis"> Wikipedia PCA </a>
 <br/> 
 <a href="https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html">Sklearn PCA</a>
 <br/>
